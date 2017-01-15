@@ -353,7 +353,7 @@ section.contact ul.list-social li a {
   color: white;
 }
 section.contact ul.list-social li.social-twitter a {
-  background-color: #dba211;
+  background-color: #7ae3ef;
 }
 section.contact ul.list-social li.social-twitter a:hover {
   background-color: #0d95e8;
@@ -394,9 +394,9 @@ footer ul li a.active {
   text-decoration: none;
 }
 .bg-primary {
-  background: #538947;
+  background: #7AEAFF;
   background: -webkit-linear-gradient(#538947, #538947);
-  background: linear-gradient(#538947, #4a5448);
+  background: linear-gradient(#46868E, #326066);
 }
 .text-primary {
   color: #fdcc52;
