@@ -396,7 +396,7 @@ footer ul li a.active {
 .bg-primary {
   background: #7AEAFF;
   background: -webkit-linear-gradient(#538947, #538947);
-  background: linear-gradient(#46868E, #326066);
+  background-image: url(../img/bg2.png);
 }
 .text-primary {
   color: #fdcc52;
